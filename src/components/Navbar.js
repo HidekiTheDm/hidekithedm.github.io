@@ -25,7 +25,7 @@ function Navbar() {
         </button>
       </div>
       <div className="links">
-        <Link to="/"><BsArrowReturnRight/> Home </Link>
+        <Link to="/hidekithedm"><BsArrowReturnRight/> Home </Link>
         <Link to="/projects"><BsArrowReturnRight/> Projects </Link>
         <Link to="/experience"><BsArrowReturnRight/> Experience </Link>
       </div>
