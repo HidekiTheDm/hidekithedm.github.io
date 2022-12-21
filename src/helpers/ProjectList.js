@@ -5,7 +5,7 @@ import Proj4 from "../assets/Poster4.jpg";
 import Proj5 from "../assets/ComicPage.png";
 import Proj6 from "../assets/Hero_Design2.jpg";
 import Proj7 from "../assets/VideoGame1.png";
-import Proj8 from "../assets/AndroidApp.png";
+import Proj8 from "../assets/AndroidApp.jpg";
 export const ProjectList = [
   {
     name: "V1 of a poster for a gaming store.",
