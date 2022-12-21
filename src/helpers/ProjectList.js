@@ -23,7 +23,7 @@ export const ProjectList = [
     skills: "Photoshop/Illustrator",
   },
   {
-    name: "Poster requesting for players for a gaming store.",
+    name: "Poster requesting for players (freelance).",
     image: Proj4,
     skills: "Photoshop/Illustrator",
   },
