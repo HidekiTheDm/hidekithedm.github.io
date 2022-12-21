@@ -14,6 +14,7 @@ import{BsArrowBarLeft} from 'react-icons/bs';
 
 function Home() {
   return (
+
     <div className="home">
       <div className="about">
         <h2> Hi, I'm Pedro Pinto!</h2>
