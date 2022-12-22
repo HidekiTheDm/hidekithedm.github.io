@@ -43,7 +43,7 @@ export const ProjectList = [
     skills: "Unity/C#",
   },
   {
-    name: "Android App",
+    name: "Android App for TOMI Lda.",
     image: Proj8,
     skills: "Android Studios/Kotlin/PHP/MySQL",
   },

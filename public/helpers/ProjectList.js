@@ -5,7 +5,6 @@ import Proj4 from "../assets/Poster4.jpg";
 import Proj5 from "../assets/ComicPage.png";
 import Proj6 from "../assets/Hero_Design2.jpg";
 import Proj7 from "../assets/VideoGame1.png";
-import Proj8 from "../assets/AndroidApp.png";
 export const ProjectList = [
   {
     name: "V1 of a poster for a gaming store.",
@@ -37,9 +36,5 @@ export const ProjectList = [
     image: Proj6,
     skills: "Clip Pain Studios",
   },
-  {
-    name: "Android App for TOMI Lda.",
-    image: Proj8,
-    skills: "Android Studios/Kotlin/MySql/PHP",
-  },
+  
 ];
