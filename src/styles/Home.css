@@ -56,9 +56,9 @@
 .soulsimg {
   width: 30%;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   flex-direction: column;
-  align-items: right;
+  float: right;
 }
 
 .skills h1 {
