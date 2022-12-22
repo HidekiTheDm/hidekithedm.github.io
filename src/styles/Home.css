@@ -54,8 +54,7 @@
   align-items: center;
 }
 .soulsimg {
-  font-size: 35px;
-  width: 100%;
+  width: 30%;
   display: flex;
   justify-content: center;
   flex-direction: column;
