@@ -29,9 +29,6 @@ function Home() {
         <a href={PedroCV} download className='btn'><BsArrowBarRight/>Download CV <BsArrowBarLeft/></a>
         </div>
       </div>
-      <div className="soulsimg">
-        <img src={soulsguy}></img>
-      </div>
       <div className="skills">
         <h1><BiGame/> Skills <BiGame/></h1>
         <ol className="list">
@@ -47,6 +44,9 @@ function Home() {
               NodeJS, ExpressJS, MySQL, MS SQL, PHP.
             </span>
           </li>
+          <div className="soulsimg">
+        <img src={soulsguy}></img>
+          </div>
           <li className="item">
             <h4> <BiCode/> Languages</h4>
             <span>JavaScript, C#, Sql, Java, Kotlin.</span>
