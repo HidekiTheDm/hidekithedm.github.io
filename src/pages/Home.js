@@ -11,6 +11,7 @@ import{AiOutlineEdit} from 'react-icons/ai';
 import{BiGame} from 'react-icons/bi';
 import{BsArrowBarRight} from 'react-icons/bs';
 import{BsArrowBarLeft} from 'react-icons/bs';
+import soulsguy from '../assets/TalkToMe.png';
 
 function Home() {
   return (
@@ -28,7 +29,9 @@ function Home() {
         <a href={PedroCV} download className='btn'><BsArrowBarRight/>Download CV <BsArrowBarLeft/></a>
         </div>
       </div>
-      
+      <div className="soulsimg">
+        <img src={soulsguy}></img>
+      </div>
       <div className="skills">
         <h1><BiGame/> Skills <BiGame/></h1>
         <ol className="list">
