@@ -20,12 +20,12 @@ function Home() {
       <div className="about">
         <h2> Hi, I'm Pedro Pinto!</h2>
         <h2> About Me:</h2>
+        <h5>
+          I usually gravitate more towards the "nerd" type thing in my hobbies, in more detail I have a big interest in the video game area, programming, design, editing, literature and general technology.
+          In terms of my past work and projects, I have developed many projects for companies while in college, in a more academic envioremnent, which consisted in mainly android apps, web development and software development. 
+          I also spent a lot of my free time as a indie game dev and as freelancing video/photo editor.</h5>
         <div className="prompt">
         <BiCode/><p>Software/Web/Game Dev || Editor || Multimedia || Design </p>
-                <h5>
-                    I usually gravitate more towards the "nerd" type thing in my hobbies, in more detail I have a big interest in the video game area, programming, design, editing, literature and general technology.
-                    In terms of my past work and projects, I have developed many projects for companies while in college, in a more academic envioremnent, which consisted in mainly android apps, web development and software development. 
-                    I also spent a lot of my free time as a indie game dev and as freelancing video/photo editor.</h5>
           <a href="https://www.linkedin.com/in/pedro-pinto-ipv/" target="_blank"><LinkedInIcon /></a>
           <a href="mailto:pedroalmeida.cch@gmail.com" target="_blank"><EmailIcon /></a>
           <a href="https://github.com/HidekiTheDm" target="_blank"><GithubIcon /></a>
