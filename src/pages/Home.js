@@ -20,10 +20,8 @@ function Home() {
     <div className="home">
       <div className="about">
         <h2> Hi, I'm Pedro Pinto!</h2>
-        <div>
-          <img src={drillspacer}></img>
-        </div>
         <div className="prompt">
+        <img src={drillspacer}></img>
         <h2> About Me:</h2>
         <h5>I'm a portuguese programmar with a gigantic passion for everything "nerdy"!</h5>
         <BiCode/><p>Software/Web/Game Dev || Editor || Multimedia || Design </p>
