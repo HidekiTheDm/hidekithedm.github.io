@@ -21,13 +21,12 @@ function Home() {
       <div className="about">
         <h2> Hi, I'm Pedro Pinto!</h2>
         <div className="prompt">
-        <img src={drillspacer}></img>
-        <h2> About Me:</h2>
-        <h5>I'm a portuguese programmar with a gigantic passion for everything "nerdy"!</h5>
-        <BiCode/><p>Software/Web/Game Dev || Editor || Multimedia || Design </p>
-          <a href="https://www.linkedin.com/in/pedro-pinto-ipv/" target="_blank"><LinkedInIcon /></a>
-          <a href="mailto:pedroalmeida.cch@gmail.com" target="_blank"><EmailIcon /></a>
-          <a href="https://github.com/HidekiTheDm" target="_blank"><GithubIcon /></a>
+          <img src={drillspacer}></img>
+          <h5>I'm a portuguese programmar with a gigantic passion for everything "nerdy"!</h5>
+          <BiCode/><p>Software/Web/Game Dev || Editor || Multimedia || Design </p>
+            <a href="https://www.linkedin.com/in/pedro-pinto-ipv/" target="_blank"><LinkedInIcon /></a>
+            <a href="mailto:pedroalmeida.cch@gmail.com" target="_blank"><EmailIcon /></a>
+            <a href="https://github.com/HidekiTheDm" target="_blank"><GithubIcon /></a>
         </div>
         <div>
         <a href={PedroCV} download className='btn'><BsArrowBarRight/>Download CV <BsArrowBarLeft/></a>
