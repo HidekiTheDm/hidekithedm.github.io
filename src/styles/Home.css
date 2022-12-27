@@ -60,6 +60,11 @@
   flex-direction: column;
   float: right;
 }
+.drillimg {
+  width: 10%;
+  display: flex;
+  justify-content: space-between;
+}
 
 .skills h1 {
   color: #202020;

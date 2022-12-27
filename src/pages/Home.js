@@ -12,6 +12,7 @@ import{BiGame} from 'react-icons/bi';
 import{BsArrowBarRight} from 'react-icons/bs';
 import{BsArrowBarLeft} from 'react-icons/bs';
 import soulsguy from '../assets/TalkToMe.png';
+import drillspacer from '../assets/Drill.png';
 
 function Home() {
   return (
@@ -19,6 +20,9 @@ function Home() {
     <div className="home">
       <div className="about">
         <h2> Hi, I'm Pedro Pinto!</h2>
+        <div className="drillimg">
+        <img src={drillspacer}></img>
+        </div>
         <div className="prompt">
         <h2> About Me:</h2>
         <h5>
