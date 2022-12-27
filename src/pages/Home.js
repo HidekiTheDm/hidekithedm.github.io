@@ -20,9 +20,8 @@ function Home() {
     <div className="home">
       <div className="about">
         <h2> Hi, I'm Pedro Pinto!</h2>
-        <div className="drillimg">
         <img src={drillspacer}></img>
-        </div>
+
         <div className="prompt">
         <h2> About Me:</h2>
         <h5>
