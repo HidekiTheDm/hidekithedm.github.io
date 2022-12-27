@@ -21,6 +21,7 @@ function Home() {
       <div className="about">
         <h2> Hi, I'm Pedro Pinto!</h2>
         <div className="prompt">
+          <br/>
           <img src={drillspacer}></img>
           <h5>I'm a portuguese programmar with a gigantic passion for everything "nerdy"!</h5>
           <BiCode/><p>Software/Web/Game Dev || Editor || Multimedia || Design </p>
