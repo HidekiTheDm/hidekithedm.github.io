@@ -6,7 +6,7 @@ import Proj5 from "../assets/ComicPage.png";
 import Proj6 from "../assets/Hero_Design2.jpg";
 import Proj7 from "../assets/VideoGame1.png";
 import Proj8 from "../assets/coiso1.png";
-import Proj9 from "../assets/Projeto3D.png";
+import Proj9 from "../assets/projeto3d.png";
 
 
 export const ProjectList = [
