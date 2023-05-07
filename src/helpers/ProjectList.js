@@ -6,6 +6,7 @@ import Proj5 from "../assets/ComicPage.png";
 import Proj6 from "../assets/Hero_Design2.jpg";
 import Proj7 from "../assets/VideoGame1.png";
 import Proj8 from "../assets/coiso1.png";
+import Proj9 from "../assets/Projeto3D.png";
 
 
 export const ProjectList = [
@@ -48,5 +49,10 @@ export const ProjectList = [
     name: "Android App for TOMI Lda.",
     image: Proj8,
     skills: "Android Studios/Kotlin/PHP/MySQL",
+  },
+  {
+    name: "Room Created in Blender",
+    image: Proj9,
+    skills: "3D/Blender",
   },
 ];
